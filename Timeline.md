@@ -23,11 +23,12 @@
     
     
 ## 14.09:
-    1. Fertiges Paper -> Paper korregieren lassen
+    1. Fertiges Paper -> Paper korrigieren lassen
 
-## Finale Abgabe unbekant (30.09):
+## Finale Abgabe unbekannt (30.09):
     1. Fertiges Paper
 
 ## Weitere Fragen:
     1. Muss Code abgegeben werden und beim Betreuer kompilieren?
     2. Object Detection (YOLO) + LIDAR möglich?
+    2. MATLAB Ergebnisse/Simulation notwendig?
