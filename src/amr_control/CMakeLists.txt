@@ -10,6 +10,7 @@ find_package(std_msgs REQUIRED)
 install(PROGRAMS
   scripts/publisher_node.py
   scripts/subscriber_node.py
+  scripts/casadi_example.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
