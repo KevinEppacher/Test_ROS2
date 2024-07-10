@@ -1,0 +1,13 @@
+{
+  "package_name": "turtlesim",
+  "non_idl_tuples": [
+    "/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/src/ros_tutorials/turtlesim:action/RotateAbsolute.action",
+    "/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/src/ros_tutorials/turtlesim:msg/Color.msg",
+    "/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/src/ros_tutorials/turtlesim:msg/Pose.msg",
+    "/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/src/ros_tutorials/turtlesim:srv/Kill.srv",
+    "/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/src/ros_tutorials/turtlesim:srv/SetPen.srv",
+    "/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/src/ros_tutorials/turtlesim:srv/Spawn.srv",
+    "/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/src/ros_tutorials/turtlesim:srv/TeleportAbsolute.srv",
+    "/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/src/ros_tutorials/turtlesim:srv/TeleportRelative.srv"
+  ]
+}

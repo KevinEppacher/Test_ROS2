@@ -1,0 +1,16 @@
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/lib/my_package/my_node
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/environment/ament_prefix_path.sh
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/environment/path.sh
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/environment/path.dsv
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/local_setup.bash
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/local_setup.sh
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/local_setup.zsh
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/local_setup.dsv
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/package.dsv
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/ament_index/resource_index/packages/my_package
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+/home/kevin/Documents/Master/2_Semester/Spez/walle_ws/install/my_package/share/my_package/package.xml
