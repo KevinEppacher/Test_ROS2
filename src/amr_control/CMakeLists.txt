@@ -11,12 +11,16 @@ install(PROGRAMS
   scripts/publisher_node.py
   scripts/subscriber_node.py
   scripts/casadi_example.py
+  scripts/test.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
-# Install launch files
-install(DIRECTORY launch
-  DESTINATION share/${PROJECT_NAME}/
+# Install launch files, maps, and configuration files
+install(DIRECTORY
+    launch
+    map
+    config
+  DESTINATION share/${PROJECT_NAME}
 )
 
 ament_package()
