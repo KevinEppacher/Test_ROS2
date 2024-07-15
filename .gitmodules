@@ -1,7 +1,24 @@
-# [submodule "src/turtlebot3"]
-# 	path = src/turtlebot3
-# 	url = https://github.com/ROBOTIS-GIT/turtlebot3.git
+[submodule "src/hls_lfcd_lds_driver"]
+    path = src/hls_lfcd_lds_driver
+    url = https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver.git
+    branch = humble-devel
 
-# [submodule "src/turtlebot3_simulations"]
-#     path = src/turtlebot3_simulations
-#     url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+[submodule "src/DynamixelSDK"]
+    path = src/DynamixelSDK
+    url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+    branch = humble-devel
+
+[submodule "src/turtlebot3"]
+    path = src/turtlebot3
+    url = https://github.com/ROBOTIS-GIT/turtlebot3.git
+    branch = humble-devel
+
+[submodule "src/turtlebot3_simulations"]
+    path = src/turtlebot3_simulations
+    url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    branch = humble-devel
+
+[submodule "src/turtlebot3_msgs"]
+    path = src/turtlebot3_msgs
+    url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+    branch = humble-devel

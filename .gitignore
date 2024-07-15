@@ -2,3 +2,7 @@
 /install/
 /log/
 
+/src/DynamixelSDK/
+/src/hls_lfcd_lds_driver/
+/src/turtlebot3/
+/src/turtlebot3_simulations/
