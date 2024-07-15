@@ -31,11 +31,11 @@ def generate_launch_description():
         ),
         launch_arguments={'world': world}.items()
     )
-    gzclient_cmd = IncludeLaunchDescription(
-        PythonLaunchDescriptionSource(
-            os.path.join(gazebo_ros_dir, 'launch', 'gzclient.launch.py')
-        )
-    )
+    # gzclient_cmd = IncludeLaunchDescription(
+    #     PythonLaunchDescriptionSource(
+    #         os.path.join(gazebo_ros_dir, 'launch', 'gzclient.launch.py')
+    #     )
+    # )
 
     # Define the robot state publisher and spawn turtlebot commands
     robot_state_publisher_cmd = IncludeLaunchDescription(
@@ -84,7 +84,7 @@ def generate_launch_description():
     # Create and populate the launch description
     ld = LaunchDescription()
     ld.add_action(gzserver_cmd)
-    ld.add_action(gzclient_cmd)
+    # ld.add_action(gzclient_cmd)
     ld.add_action(robot_state_publisher_cmd)
     ld.add_action(spawn_turtlebot_cmd)
     ld.add_action(slam_toolbox_cmd)

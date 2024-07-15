@@ -11,7 +11,7 @@ install(PROGRAMS
   scripts/publisher_node.py
   scripts/subscriber_node.py
   scripts/casadi_example.py
-  scripts/test.py
+  scripts/optimal_control.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
